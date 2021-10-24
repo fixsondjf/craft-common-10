@@ -1,1 +1,0 @@
-greeting from craft -common-10
